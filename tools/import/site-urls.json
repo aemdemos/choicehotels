@@ -1,0 +1,20 @@
+{
+  "originUrl": "https://www.choicehotels.com",
+  "urls": [
+    {
+      "url": "https://www.choicehotels.com/en-uk/explore/national-parks/national-parks-you-never-knew-existed",
+      "source": "USER_PROVIDED"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
